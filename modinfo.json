@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Bratacylsm",
+    "name": "<color_cyan>Bratacylsm</color>",
+    "authors": [ "VJ" ],
+    "description": "Adds a VJ, her suit, a Pup body pillow, and hopefully other stuff",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
