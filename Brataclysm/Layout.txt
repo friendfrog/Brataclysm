@@ -1,0 +1,19 @@
+New Items:
+VJ Suit
+Jack Mutagen
+King Mutagen 
+Pup Mutagen
+
+New Mutations:
+Jack Skin
+Jack Hair
+King Skin
+King Hair
+Pup Skin
+Pup Hair
+
+New Recipes:
+Jack Mutagen (Hair + Skin)
+King Mutagen (Hair + Skin)
+Pup Mutagen (Hair + Skin)
+
