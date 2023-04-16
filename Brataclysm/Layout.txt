@@ -4,6 +4,7 @@ Pup Suit (New Tile)
 Jack Mutagen
 King Mutagen 
 Pup Mutagen
+Pup Pillow (2 Tiles, one ground, one wield)
 
 New Mutations + Tiles:
 Jack Skin
