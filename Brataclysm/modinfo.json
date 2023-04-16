@@ -4,7 +4,7 @@
     "id": "Bratacylsm",
     "name": "<color_cyan>Bratacylsm</color>",
     "authors": [ "VJ" ],
-    "description": "Adds a VJ, her suit, a Pup body pillow, and hopefully other stuff",
+    "description": "Adds VJ and her Brats",
     "category": "content",
     "dependencies": [ "dda" ]
   }

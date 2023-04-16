@@ -1,10 +1,11 @@
 New Items:
-VJ Suit
+VJ Suit (New Tile)
+Pup Suit (New Tile)
 Jack Mutagen
 King Mutagen 
 Pup Mutagen
 
-New Mutations:
+New Mutations + Tiles:
 Jack Skin
 Jack Hair
 King Skin
@@ -16,4 +17,6 @@ New Recipes:
 Jack Mutagen (Hair + Skin)
 King Mutagen (Hair + Skin)
 Pup Mutagen (Hair + Skin)
+
+
 
