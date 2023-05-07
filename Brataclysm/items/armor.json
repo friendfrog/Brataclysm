@@ -16,7 +16,7 @@
   {
     "id": "pup_suit",
     "type": "ARMOR",
-    "name": { "str": "Vile Suit" },
+    "name": { "str": "Bubby Suit" },
     "description": "A flexible bubbysuit made from a material of alien origin.",
     "weight": "2000 g",
     "volume": "50 ml",
